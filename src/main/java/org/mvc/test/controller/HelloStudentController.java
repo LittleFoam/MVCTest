@@ -20,4 +20,9 @@ public class HelloStudentController {
     public List<HelloStudent> welcome() {
         return service.welcome();
     }
+
+    @RequestMapping("jsTest")
+    public String jsTest() {
+        return "jsTest";
+    }
 }
