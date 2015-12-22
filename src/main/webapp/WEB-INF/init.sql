@@ -1,20 +1,4 @@
-INSERT INTO Goods (id, name, price) VALUES ('1', 'Apple iPhone 6s ',1);
-INSERT INTO Goods (id, name, price) VALUES ('2', '小米 红米Note2',1);
-INSERT INTO Goods (id, name, price) VALUES ('3', '哇哈哈',1);
-INSERT INTO Goods (id, name, price) VALUES ('4', '双皮奶',1);
-INSERT INTO Goods (id, name, price) VALUES ('5', '金龙鱼食用油',1);
-INSERT INTO Goods (id, name, price) VALUES ('6', '鸡蛋',1);
-INSERT INTO Goods (id, name, price) VALUES ('7', '大米',1);
-INSERT INTO Goods (id, name, price) VALUES ('8', '海天酱油',1);
-INSERT INTO Goods (id, name, price) VALUES ('9', '果冻',1);
-INSERT INTO Goods (id, name, price) VALUES ('699803', '皇后以斯帖1550外套',1);
-INSERT INTO Goods (id, name, price) VALUES ('111111', '香烟',1);
-INSERT INTO Goods (id, name, price) VALUES ('222222', '白色浅口女鞋',1);
-INSERT INTO Goods (id, name, price) VALUES ('333333', '五谷珍品无糖沙琪玛粗粮',1);
-INSERT INTO Goods (id, name, price) VALUES ('444444', '维娜叶玫香清爽护理化妆品',1);
-INSERT INTO Goods (id, name, price) VALUES ('555555', '海之宝冷鲜小海带',1);
-INSERT INTO Goods (id, name, price) VALUES ('666666', '婚礼礼盒',1);
-INSERT INTO Goods (id, name, price) VALUES ('777777', '纯素色全棉四件套',1);
-INSERT INTO Goods (id, name, price) VALUES ('888888', '休闲系带帆布女鞋',1);
--- 收银员
-INSERT INTO Users (username, password) VALUES ('001', '111111');
+INSERT INTO HelloStudent (id, name, age) VALUES ('1000', 'HS ',11);
+INSERT INTO HelloStudent (id, name, age) VALUES ('1001', 'SN ',51);
+INSERT INTO HelloStudent (id, name, age) VALUES ('1002', 'AP ',33);
+INSERT INTO HelloStudent (id, name, age) VALUES ('1003', 'LX ',21);
