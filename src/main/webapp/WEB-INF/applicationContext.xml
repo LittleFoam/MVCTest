@@ -52,6 +52,4 @@
         <property name="username" value="sa"/>
         <property name="password" value=""/>
     </bean>
-
-    <!--<import resource="applicationContext-shiro.xml"/>-->
 </beans>
